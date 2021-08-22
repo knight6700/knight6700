@@ -8,7 +8,7 @@
 
 <br />
 
-hi, i'm [Mahmoud Fares], a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Mahmoud Fares, IOS Developer, my current team focuses on software customizing, I had experience with iOS developing by using Swift 5 and Objective C, creating unique and moder
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
