@@ -30,9 +30,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```text
 Swift          21 hrs 56 mins  ████████████████████████░   95.71 % 
 Kotlin         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Python   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-HTML   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   20.65 % 
-CSS   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Python         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+HTML           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   20.65 % 
+CSS            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   20.65 % 
 
 ```
 <!--END_SECTION:waka-->
