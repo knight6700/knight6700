@@ -14,7 +14,7 @@
 I'm Mahmoud Fares, Mobile software engineer at Careem/Uber (Swift,SwiftUI, TCA, ObjC, iOS) with 8+ years of experience working with international teams and clients and large-scale apps, seeking a new challenge to build A+ products.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
 
 - 💼 [Portfolio]()
   
@@ -28,28 +28,6 @@ I'm Mahmoud Fares, Mobile software engineer at Careem/Uber (Swift,SwiftUI, TCA, 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Swift          21 hrs 56 mins  ████████████████████████░   95.71 % 
-Kotlin         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Python         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-HTML           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   20.65 % 
-CSS            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   20.65 % 
-
-```
-<!--END_SECTION:waka-->
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  50  Points Story          
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 my github stats
 
