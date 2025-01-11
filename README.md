@@ -8,14 +8,15 @@
 
 <br />
 
-I'm Mahmoud Fares, IOS Developer, my current team focuses on software customizing, I had experience with iOS developing by using Swift 5 and Objective C, creating unique and moder
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm Mahmoud Fares, Mobile software engineer at Careem/Uber (Swift,SwiftUI, TCA, ObjC, iOS) with 8+ years of experience working with international teams and clients and large-scale apps, seeking a new challenge to build A+ products.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 💼 [Portfolio](https://bento.me/mahmoudfares)
   
 - 💼 any freelance work? do reach, [email](mailto:knight6700@gmail.com) :)
+  
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
