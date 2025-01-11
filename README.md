@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/mahmoud-fariss-712667154/">
   <img align="left" alt="Mahmoud's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
-<a href="https://www.linkedin.com/in/mahmoud-fariss-712667154/](https://bento.me/mahmoudfares">
+<a href="https://bento.me/mahmoudfares">
   <img align="left" alt="Mahmoud's LinkedIN" width="22px" src="https://github.com/user-attachments/assets/bcfaf27f-f7a9-4df6-b126-1b799000d969" />
 </a>
 
@@ -16,7 +16,7 @@ I'm Mahmoud Fares, Mobile software engineer at Careem/Uber (Swift,SwiftUI, TCA, 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
 
-- 💼 [Portfolio]()
+- 💼 [Portfolio](https://bento.me/mahmoudfares)
   
 - 💼 any freelance work? do reach, [email](mailto:knight6700@gmail.com) :)
   
