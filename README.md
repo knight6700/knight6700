@@ -1,7 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
 <a href="https://www.linkedin.com/in/mahmoud-fariss-712667154//">
-  <img align="left" alt="Mahmoud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mahmoud's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=knight6700)
